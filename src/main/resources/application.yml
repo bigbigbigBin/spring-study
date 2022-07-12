@@ -1,0 +1,12 @@
+spring.rabbitmq:
+  stdmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+  zzddmq:
+    host: localhost
+    port: 5673
+    username: guest
+    password: guest
+    virtualHost: '/'
